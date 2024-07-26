@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\arnol\eclipse-workspace\iPhoneProject\.metadata\.plugins\org.eclipse.jdt.core
+3530245032.index
+1865797976.index
+1577045999.index
